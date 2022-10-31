@@ -10,6 +10,13 @@ body{
     height: 100vh;
     
 }
+.box{
+    /* color: rgba(11, 2, 8, 0.116); */
+    color:black;
+    text-align: center;
+    font-style: oblique;
+    font-size: 2.3em;
+}
 .container{
     /* background-color: rgb(107, 105, 239); */
     border: 2px solid black;
